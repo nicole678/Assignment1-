@@ -29,7 +29,7 @@ void Q1()
 	B = 180 - A - 90;	//find B
 	cout << setprecision(3) << a << " " << b << " " << c << " " << A << " " << B; //display the result
 
-	return 0;
+	return ;
 
 }
 
@@ -96,7 +96,7 @@ void Q2()
 		break;
 	}
 
-	return 0;
+	return ;
 }
 
 
@@ -151,7 +151,7 @@ void Q3()
 	}
 		cout << endl;
 
-	return 0;
+	return ;
 }
 
 // GIVEN CODES, DO NOT MODIFY 
